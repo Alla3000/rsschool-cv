@@ -4,7 +4,7 @@
 
 ## Contacts
 
-- **Tel:** +375336552925
+- **Tel:** [+375(33)655-29-25](tel:+375-33-655-29-25)
 - **E-mail:** [chebotalena@gmail.com](mailto:chebotalena@gmail.com)
 - **Telegram:** [@Alla3000](https://t.me./Alla3000)
 
