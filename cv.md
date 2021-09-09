@@ -62,11 +62,24 @@ Courses taught:
 - the basics of algorithmization and programming
 - data processing structures and algorithms
 
-#### Courses
+## Courses
+
 - JavaScript Manual on learnjavascript.ru <https://learn.javascript.ru> (in progress)
 - RS Schools Course «JavaScript/Front-end 2021Q3» (in progress)
 
 ## Education
-Yanka Kupala Grodno State University: specialty "*Applied Mathematics*"*.
-Master of Science in Physics and Mathematics, specialty "*Applied Mathematics and Computer Science*".
-Research Fellow Diploma in "*Real, Complex and Functional Analysis*".
+
+Yanka Kupala Grodno State University: specialty "*Applied Mathematics*" (2012).
+
+Master of Science in Physics and Mathematics, specialty "*Applied Mathematics and Computer Science*" (2013).
+
+Research Fellow Diploma in "*Real, Complex and Functional Analysis*" (2018).
+
+## Languages
+
+Russian, Belorussian (native speaker)
+
+English (A2)
+
+Polish (A1)
+
