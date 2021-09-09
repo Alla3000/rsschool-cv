@@ -21,3 +21,19 @@
 1) HTML/CSS (Novice)
 1) Java Script (Novice)
 1) Git (Novice)
+
+## Code example
+
+**Squares sequence from codewars:** *Complete the function that returns an array of length n, starting with the given number x and the squares of the previous number. If n is negative or zero, return an empty array/list.*
+```
+function solution(number){
+  let answer=0;
+  while (number>=3)
+    { number--;
+      if ((number%3==0)||(number%5==0)) answer+=number;
+    }
+  return answer;
+}
+
+```
+
