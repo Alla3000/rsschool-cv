@@ -38,8 +38,8 @@ function solution(number){
 
 ## Experience
 
-### From September 2012 to August 2016 (4 years) laboratory assistant at Yanka Kupala State University of Grodno.
-### From September 2016 to the present (over 5 years) lecturer at Yanka Kupala State University of Grodno.
+#### From September 2012 to August 2016 (4 years) laboratory assistant at Yanka Kupala State University of Grodno.
+#### From September 2016 to the present (over 5 years) lecturer at Yanka Kupala State University of Grodno.
 Courses taught:
 - theory of functions of a complex variable
 - functional analysis
@@ -54,7 +54,7 @@ Courses taught:
 - programming practice
 - applied programming
 
-### From June 2017 to July 2018 (1 year) lecturer at the Grodno State College of Engineering, Technology and Design.
+#### From June 2017 to July 2018 (1 year) lecturer at the Grodno State College of Engineering, Technology and Design.
 Courses taught:
 - educational practice
 - probability theory and mathematical analysis
@@ -62,6 +62,11 @@ Courses taught:
 - the basics of algorithmization and programming
 - data processing structures and algorithms
 
-### Courses
+#### Courses
 - JavaScript Manual on learnjavascript.ru <https://learn.javascript.ru> (in progress)
 - RS Schools Course «JavaScript/Front-end 2021Q3» (in progress)
+
+## Education
+Yanka Kupala Grodno State University: specialty "*Applied Mathematics*"*.
+Master of Science in Physics and Mathematics, specialty "*Applied Mathematics and Computer Science*".
+Research Fellow Diploma in "*Real, Complex and Functional Analysis*".
